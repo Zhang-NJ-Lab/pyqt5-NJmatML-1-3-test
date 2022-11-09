@@ -1,4 +1,7 @@
 # pyqt5-NJmatML-1-3-test
+
+只需下载zip文件即可
+
 pyqt5代码用于生成NJmatML的界面
 
 show.py 主程序，点击run，会出现窗口
